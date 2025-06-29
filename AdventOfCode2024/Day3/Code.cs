@@ -1,6 +1,6 @@
-namespace AdventOfCode2024;
+namespace AdventOfCode2024.Day3;
 
-public class Day3Code
+public abstract class Code
 {
     public static int Part1(string filename, bool obeyDoDont = false)
     {

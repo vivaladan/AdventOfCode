@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 
-namespace AdventOfCode2024;
+namespace AdventOfCode2024.Day1;
 
-public abstract class Day1Code
+public abstract class Code
 {
     public static int Part1(string filename)
     {

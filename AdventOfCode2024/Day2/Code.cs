@@ -1,9 +1,8 @@
 using System.Diagnostics;
-using System.Security.Cryptography;
 
-namespace AdventOfCode2024;
+namespace AdventOfCode2024.Day2;
 
-public class Day2Code
+public abstract class Code
 {
     public static int Part1(string filename)
     {
